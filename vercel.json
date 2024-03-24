@@ -13,7 +13,7 @@
       }
     ],
     "env": {
-      "FRONTEND_URL": "https://graduate-tracer-2024-331a.vercel.app"
+      "FRONTEND_URL": "https://graduate-tracer-2024-client.vercel.app"
     }
   }
   
